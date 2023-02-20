@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - program prints a line to the stanadard error"
- * Return: 1
+ * Return 1
  */
 int main(void)
 {
