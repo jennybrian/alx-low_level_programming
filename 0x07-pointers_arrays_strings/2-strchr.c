@@ -4,7 +4,7 @@
 /**
  * _strchr - entry point
  * @s: input
- * @s: input
+ * @c: input
  * Return: 0 success
  */
 
