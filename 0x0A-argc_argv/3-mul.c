@@ -5,7 +5,7 @@
 /**
  * main - multiplie wo numbers
  * @argc: argument count
- * argv: argument vecetor
+ * @argv: argument vecetor
  *
  * Return: 0 always
  */
